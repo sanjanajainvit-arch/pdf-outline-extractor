@@ -176,15 +176,3 @@ The trained model will be stored in the models directory.
 * Automated Content Indexing
 
 ---
-
-## Future Enhancements
-
-* Layout-aware heading detection
-* OCR support for scanned PDFs
-* Deep Learning based heading classification
-* Support for tables and figures
-* Web-based user interface
-* Batch PDF processing
-* Semantic document summarization
-
----
